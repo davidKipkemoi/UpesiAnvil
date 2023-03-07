@@ -25,3 +25,8 @@ D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\refint\upesi.API.dll
 D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\upesi.API.pdb
 D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\upesi.API.genruntimeconfig.cache
 D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\ref\upesi.API.dll
+D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\staticwebassets\msbuild.upesi.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\staticwebassets\msbuild.build.upesi.API.props
+D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.upesi.API.props
+D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.upesi.API.props
+D:\xampp\htdocs\Anvil\upesi.API\obj\Debug\net6.0\staticwebassets.pack.json
